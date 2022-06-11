@@ -1,0 +1,6 @@
+C:\Users\Vectronio\source\repos\App1\App1\obj\Debug\net5.0\App1.csproj.AssemblyReference.cache
+C:\Users\Vectronio\source\repos\App1\App1\obj\Debug\net5.0\App1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vectronio\source\repos\App1\App1\obj\Debug\net5.0\App1.AssemblyInfoInputs.cache
+C:\Users\Vectronio\source\repos\App1\App1\obj\Debug\net5.0\App1.AssemblyInfo.cs
+C:\Users\Vectronio\source\repos\App1\App1\obj\Debug\net5.0\App1.csproj.CoreCompileInputs.cache
+C:\Users\Vectronio\source\repos\App1\App1\obj\Debug\net5.0\App1.MvcApplicationPartsAssemblyInfo.cache
