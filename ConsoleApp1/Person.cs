@@ -10,6 +10,6 @@ namespace App1.Models
         [Key(1)]
         public string Name { get; set; }
         [Key(2)]
-        public string Age { get; set; }
+        public int Age { get; set; }
     }
 }
