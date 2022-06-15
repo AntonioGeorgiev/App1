@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zgPXo0p7PYB1w7EjyNwJgnXRPENvA9D+G2s+7s3GfETj8F/3FrATLA04ihSMnsrHmD2BKCSnr3D66KI+3rPnJA==",
+  "dgSpecHash": "HUPZQy5CovAZWkf0Iwc2y7DVSKwQ8mFkeiSIV6xVnnzOoqr3vh6fFRpJOlBhNsKgOWBGQY9qLjBgkuRhl+LyAg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Vectronio\\source\\repos\\App1\\App1.BL\\App1.BL.csproj",
+  "projectFilePath": "C:\\Users\\Vectronio\\Source\\Repos\\App1\\App1.BL\\App1.BL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Vectronio\\.nuget\\packages\\confluent.kafka\\1.8.2\\confluent.kafka.1.8.2.nupkg.sha512",
     "C:\\Users\\Vectronio\\.nuget\\packages\\librdkafka.redist\\1.8.2\\librdkafka.redist.1.8.2.nupkg.sha512",

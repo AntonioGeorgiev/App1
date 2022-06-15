@@ -2,3 +2,4 @@ C:\Users\Vectronio\source\repos\App1\App1.DL\obj\Debug\net5.0\App1.DL.GeneratedM
 C:\Users\Vectronio\source\repos\App1\App1.DL\obj\Debug\net5.0\App1.DL.AssemblyInfoInputs.cache
 C:\Users\Vectronio\source\repos\App1\App1.DL\obj\Debug\net5.0\App1.DL.AssemblyInfo.cs
 C:\Users\Vectronio\source\repos\App1\App1.DL\obj\Debug\net5.0\App1.DL.csproj.CoreCompileInputs.cache
+C:\Users\Vectronio\source\repos\App1\App1.DL\obj\Debug\net5.0\App1.DL.csproj.AssemblyReference.cache

@@ -2118,11 +2118,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vectronio\\source\\repos\\App1\\App1\\App1.csproj",
+      "projectUniqueName": "C:\\Users\\Vectronio\\Source\\Repos\\App1\\App1\\App1.csproj",
       "projectName": "App1",
-      "projectPath": "C:\\Users\\Vectronio\\source\\repos\\App1\\App1\\App1.csproj",
+      "projectPath": "C:\\Users\\Vectronio\\Source\\Repos\\App1\\App1\\App1.csproj",
       "packagesPath": "C:\\Users\\Vectronio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vectronio\\source\\repos\\App1\\App1\\obj\\",
+      "outputPath": "C:\\Users\\Vectronio\\Source\\Repos\\App1\\App1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Vectronio\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2139,14 +2139,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Vectronio\\source\\repos\\App1\\App1.BL\\App1.BL.csproj": {
-              "projectPath": "C:\\Users\\Vectronio\\source\\repos\\App1\\App1.BL\\App1.BL.csproj"
+            "C:\\Users\\Vectronio\\Source\\Repos\\App1\\App1.BL\\App1.BL.csproj": {
+              "projectPath": "C:\\Users\\Vectronio\\Source\\Repos\\App1\\App1.BL\\App1.BL.csproj"
             },
-            "C:\\Users\\Vectronio\\source\\repos\\App1\\App1.DL\\App1.DL.csproj": {
-              "projectPath": "C:\\Users\\Vectronio\\source\\repos\\App1\\App1.DL\\App1.DL.csproj"
+            "C:\\Users\\Vectronio\\Source\\Repos\\App1\\App1.DL\\App1.DL.csproj": {
+              "projectPath": "C:\\Users\\Vectronio\\Source\\Repos\\App1\\App1.DL\\App1.DL.csproj"
             },
-            "C:\\Users\\Vectronio\\source\\repos\\App1\\ConsoleApp1\\Models.csproj": {
-              "projectPath": "C:\\Users\\Vectronio\\source\\repos\\App1\\ConsoleApp1\\Models.csproj"
+            "C:\\Users\\Vectronio\\Source\\Repos\\App1\\ConsoleApp1\\Models.csproj": {
+              "projectPath": "C:\\Users\\Vectronio\\Source\\Repos\\App1\\ConsoleApp1\\Models.csproj"
             }
           }
         }

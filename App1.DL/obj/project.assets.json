@@ -1887,11 +1887,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vectronio\\source\\repos\\App1\\App1.DL\\App1.DL.csproj",
+      "projectUniqueName": "C:\\Users\\Vectronio\\Source\\Repos\\App1\\App1.DL\\App1.DL.csproj",
       "projectName": "App1.DL",
-      "projectPath": "C:\\Users\\Vectronio\\source\\repos\\App1\\App1.DL\\App1.DL.csproj",
+      "projectPath": "C:\\Users\\Vectronio\\Source\\Repos\\App1\\App1.DL\\App1.DL.csproj",
       "packagesPath": "C:\\Users\\Vectronio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vectronio\\source\\repos\\App1\\App1.DL\\obj\\",
+      "outputPath": "C:\\Users\\Vectronio\\Source\\Repos\\App1\\App1.DL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Vectronio\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1908,8 +1908,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Vectronio\\source\\repos\\App1\\ConsoleApp1\\Models.csproj": {
-              "projectPath": "C:\\Users\\Vectronio\\source\\repos\\App1\\ConsoleApp1\\Models.csproj"
+            "C:\\Users\\Vectronio\\Source\\Repos\\App1\\ConsoleApp1\\Models.csproj": {
+              "projectPath": "C:\\Users\\Vectronio\\Source\\Repos\\App1\\ConsoleApp1\\Models.csproj"
             }
           }
         }
